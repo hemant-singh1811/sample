@@ -36,4 +36,6 @@ static hash(timestamp,lastHash,data){
 
 }
 
+console.log('this is sample things i am trying to do');
+
 module.exports=Block;
